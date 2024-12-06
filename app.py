@@ -119,5 +119,5 @@ def main():
                 st.success("Done")
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8000)
-
+    # Any setup code or modular structure can go here
+    main()
